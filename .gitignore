@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+*.lock
+*.ide*
+*.suo
