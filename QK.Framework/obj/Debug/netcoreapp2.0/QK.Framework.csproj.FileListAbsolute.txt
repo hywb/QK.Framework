@@ -1,0 +1,8 @@
+D:\Git\github\QK.Framework\QK.Framework\bin\Debug\netcoreapp2.0\QK.Framework.deps.json
+D:\Git\github\QK.Framework\QK.Framework\bin\Debug\netcoreapp2.0\QK.Framework.dll
+D:\Git\github\QK.Framework\QK.Framework\bin\Debug\netcoreapp2.0\QK.Framework.pdb
+D:\Git\github\QK.Framework\QK.Framework\obj\Debug\netcoreapp2.0\QK.Framework.csproj.CoreCompileInputs.cache
+D:\Git\github\QK.Framework\QK.Framework\obj\Debug\netcoreapp2.0\QK.Framework.AssemblyInfoInputs.cache
+D:\Git\github\QK.Framework\QK.Framework\obj\Debug\netcoreapp2.0\QK.Framework.AssemblyInfo.cs
+D:\Git\github\QK.Framework\QK.Framework\obj\Debug\netcoreapp2.0\QK.Framework.dll
+D:\Git\github\QK.Framework\QK.Framework\obj\Debug\netcoreapp2.0\QK.Framework.pdb

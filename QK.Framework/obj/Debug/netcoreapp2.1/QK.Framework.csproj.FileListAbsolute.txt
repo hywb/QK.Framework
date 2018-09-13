@@ -1,0 +1,12 @@
+D:\Git\github\QK.Framework\QK.Framework\obj\Debug\netcoreapp2.1\QK.Framework.csproj.CoreCompileInputs.cache
+D:\Git\github\QK.Framework\QK.Framework\obj\Debug\netcoreapp2.1\QK.Framework.AssemblyInfoInputs.cache
+D:\Git\github\QK.Framework\QK.Framework\obj\Debug\netcoreapp2.1\QK.Framework.AssemblyInfo.cs
+D:\Git\github\QK.Framework\QK.Framework\bin\Debug\netcoreapp2.1\QK.Framework.deps.json
+D:\Git\github\QK.Framework\QK.Framework\bin\Debug\netcoreapp2.1\QK.Framework.dll
+D:\Git\github\QK.Framework\QK.Framework\bin\Debug\netcoreapp2.1\QK.Framework.pdb
+D:\Git\github\QK.Framework\QK.Framework\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Git\github\QK.Framework\QK.Framework\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Git\github\QK.Framework\QK.Framework\obj\Debug\netcoreapp2.1\QK.Framework.csproj.CopyComplete
+D:\Git\github\QK.Framework\QK.Framework\obj\Debug\netcoreapp2.1\QK.Framework.dll
+D:\Git\github\QK.Framework\QK.Framework\obj\Debug\netcoreapp2.1\QK.Framework.pdb
+D:\Git\github\QK.Framework\QK.Framework\obj\Debug\netcoreapp2.1\QK.Framework.csprojResolveAssemblyReference.cache
